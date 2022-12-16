@@ -2,6 +2,6 @@
 From tomcat:8-jre8
 
 # Maintainer 
-MAINTAINER "Pritam Patra" 
+MAINTAINER "Yuvasri Kanagaraj" 
 COPY ./webapp.war /usr/local/tomcat/webapps
 
